@@ -10,13 +10,13 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 ### C++
 
 ### Java
-- [CSV Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-CSVCodec)
-- [File Transport](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-FileTransport)
-- [RegEx Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-RegExCodec)
+- [CSV Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-CSVCodec) - Translation of CSV format messages
+- [File Transport](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-FileTransport) - Ingestion of files from disk
+- [RegEx Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-RegExCodec) - RegEx operations on messages
 
 ## EPL Plug-Ins
 ### C++
-- [RaspberryPi GPIO](https://github.com/CallumAttryde/apama_GPIO)
+- [RaspberryPi GPIO](https://github.com/CallumAttryde/apama_GPIO) - For interfacing with the RaspberryPi on board GPIO
 
 ### Java
 
@@ -26,6 +26,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Lambdas](https://github.com/SoftwareAG/apama-lambdas) - Lambdas for EPL
 
 ## Utilities and Tools
+- [PySys](https://sourceforge.net/projects/pysys/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.
 
 ## Docker
 

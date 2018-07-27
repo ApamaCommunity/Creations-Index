@@ -6,7 +6,6 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - Please try to find an existing category under which it can be placed, else insert under 'Misc.' or suggest a new category
 - Please prettify links such that the link text is a descriptive title rather than a URL
 
---
 
 ## Connectivity Plug-Ins
 ### C++

@@ -9,7 +9,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## Connectivity Plug-Ins
 ### C++
-[RaspberryPi GPIO](https://github.com/CallumAttryde/apama_GPIO)
+- [RaspberryPi GPIO](https://github.com/CallumAttryde/apama_GPIO)
 
 ### Java
 

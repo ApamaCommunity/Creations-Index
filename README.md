@@ -1,4 +1,4 @@
-# Creations Index
+# Apama Community Creations Index
 A curated index of community creations for the [Apama Streaming Analytics](http://www.apamacommunity.com/) platform.
 ## Contributing to the Index
 If you would like to link to a resource (hosted on GitHub or externally), please create a pull request containing your changes to the README.md file. 

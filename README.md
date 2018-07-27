@@ -20,6 +20,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## Frameworks and Libraries
 - [RxEPL](https://github.com/SoftwareAG/apama-rxepl) - The ReactiveX framework (Observables) implemented entirely in EPL
+- [Lambdas](https://github.com/SoftwareAG/apama-lambdas) - Lambdas for EPL
 
 ## Utilities and Tools
 

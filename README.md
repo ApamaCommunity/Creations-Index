@@ -31,7 +31,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 ## Docker
 - [Correlator Images](https://store.docker.com/images/apama-correlator) - Official images of the Apama Correlator hosted on Docker Store.
 
-## Syntax Highlighters
+## IDE Extensions
 - [Notepad++](https://github.com/rpeach-sag/apama-notepad-syntax)
 
 ## Tutorials

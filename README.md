@@ -8,6 +8,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## Connectivity Plug-Ins
 ### C++
+- [CSV Codec] (https://github.com/himanshunandeshwar/apama-streaming-analytics-connectivityPlugin-CSVCodec-cpp) - Translation of CSV format messages
 
 ### Java
 - [CSV Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-CSVCodec) - Translation of CSV format messages

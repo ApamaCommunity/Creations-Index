@@ -30,6 +30,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## Utilities and Tools
 - [PySys](https://sourceforge.net/projects/pysys/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.
+- [Aunit](https://github.com/antoinewaugh/aunit) - EPL annotation-based unit testing. Leverages PySys framework.
 
 ## Docker
 - [Correlator Images](https://store.docker.com/images/apama-correlator) - Official images of the Apama Correlator hosted on Docker Store.

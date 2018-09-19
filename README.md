@@ -22,12 +22,11 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [RaspberryPi GPIO](https://github.com/CallumAttryde/apama_GPIO) - For interfacing with the RaspberryPi on board GPIO
 - [CSV Plugin](https://github.com/mjj29/apama-csv-plugin) - Translation of CSV format messages, with escaping and contentType checking for both plugins and connectivity codec
 - [Random Plugin](https://github.com/mjj29/apama-random-plugin) - Random number generation plugin for statistical use (wraps C++ random header)
-### Python
-- [Configuration Plugin](https://github.com/mjj29/apama-configuration-plugin) - Allow EPL access to correlator configuration properties
 
 ### Java
 
 ### Python
+- [Configuration Plugin](https://github.com/mjj29/apama-configuration-plugin) - Allow EPL access to correlator configuration properties
 
 ## Frameworks and Libraries
 - [RxEPL](https://github.com/SoftwareAG/apama-rxepl) - The ReactiveX framework (Observables) implemented entirely in EPL

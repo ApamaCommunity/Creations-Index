@@ -30,6 +30,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 ### Java
 
 ### Python
+- [Configuration Plugin](https://github.com/mjj29/apama-configuration-plugin) - Allow EPL access to correlator configuration properties
 
 ## Frameworks and Libraries
 - [RxEPL](https://github.com/SoftwareAG/apama-rxepl) - The ReactiveX framework (Observables) implemented entirely in EPL

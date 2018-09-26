@@ -24,8 +24,6 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [CSV Plugin](https://github.com/mjj29/apama-csv-plugin) - Translation of CSV format messages, with escaping and contentType checking for both plugins and connectivity codec
 - [Random Plugin](https://github.com/mjj29/apama-random-plugin) - Random number generation plugin for statistical use (wraps C++ random header)
 - [Base64 Plugin](https://github.com/mjj29/apama-base64-plugin) - Translation of Base64-encoded data for both plugins and connectivity codec
-### Python
-- [Configuration Plugin](https://github.com/mjj29/apama-configuration-plugin) - Allow EPL access to correlator configuration properties
 
 ### Java
 

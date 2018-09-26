@@ -11,6 +11,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [CSV Codec](https://github.com/mjj29/apama-csv-plugin) - Translation of CSV format messages, with escaping and contentType checking for both plugins and connectivity codec
 - [CSV Codec](https://github.com/himanshunandeshwar/apama-streaming-analytics-connectivityPlugin-CSVCodec-cpp) - Translation of CSV format messages
 - [Batching Codec](https://github.com/mjj29/apama-batching-codec) - Convert a batch of messages into a single message containing a list of messages and vice-versa
+- [Base64 Codec](https://github.com/mjj29/apama-base64-plugin) - Translation of Base64-encoded data for both plugins and connectivity codec
 
 ### Java
 - [CSV Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-CSVCodec) - Translation of CSV format messages
@@ -22,6 +23,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [RaspberryPi GPIO](https://github.com/CallumAttryde/apama_GPIO) - For interfacing with the RaspberryPi on board GPIO
 - [CSV Plugin](https://github.com/mjj29/apama-csv-plugin) - Translation of CSV format messages, with escaping and contentType checking for both plugins and connectivity codec
 - [Random Plugin](https://github.com/mjj29/apama-random-plugin) - Random number generation plugin for statistical use (wraps C++ random header)
+- [Base64 Plugin](https://github.com/mjj29/apama-base64-plugin) - Translation of Base64-encoded data for both plugins and connectivity codec
 
 ### Java
 

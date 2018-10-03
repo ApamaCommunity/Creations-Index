@@ -44,6 +44,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## IDE Extensions
 - [Notepad++](https://github.com/rpeach-sag/apama-notepad-syntax)
+- [vscode](https://github.com/CaribouJohn/vscode-apama-extensions) - Install from vscode (search extensions for 'EPL') 
 
 ## Tutorials
 

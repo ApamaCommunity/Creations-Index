@@ -20,6 +20,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 ### C++
 - [RaspberryPi GPIO](https://github.com/CallumAttryde/apama_GPIO) - For interfacing with the RaspberryPi on board GPIO
 - [Random Plugin](https://github.com/mjj29/apama-random-plugin) - Random number generation plugin for statistical use (wraps STL random header)
+- [Filesystem](https://github.com/CallumAttryde/apama_file_plugin) - Filesystem operations (r,w,ls,mv,cp,rm,etc.)
 
 ### Java
 

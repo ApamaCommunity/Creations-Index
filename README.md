@@ -15,6 +15,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [CSV Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-CSVCodec) - Translation of CSV format messages
 - [File Transport](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-FileTransport) - Ingestion of files from disk
 - [RegEx Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-RegExCodec) - RegEx operations on messages
+- [Apache Pulsar Plugin](https://github.com/prabal77/ApachePulsarConnecitivityPlugin) - Connectivity Plugin for Apache Pulsar pub-sub system.
 
 ## EPL Plug-Ins
 ### C++

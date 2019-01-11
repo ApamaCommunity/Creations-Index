@@ -43,7 +43,8 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Aunit](https://github.com/antoinewaugh/aunit) - EPL annotation-based unit testing. Leverages PySys framework.
 
 ## Docker
-- [Correlator Images](https://store.docker.com/images/apama-correlator) - Official images of the Apama Correlator hosted on Docker Store.
+- [Correlator Images](https://hub.docker.com/_/apama-correlator) - Official images of the Apama Correlator hosted on Docker Store.
+- [Correlator Builder Image](https://hub.docker.com/_/softwareag-apama-builder) - Official image for building Apama projects into new images via multi-stage builds.  
 
 ## IDE Extensions
 - [Notepad++](https://github.com/rpeach-sag/apama-notepad-syntax)

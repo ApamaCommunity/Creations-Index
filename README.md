@@ -44,7 +44,8 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## Docker
 - [Correlator Images](https://hub.docker.com/_/apama-correlator) - Official images of the Apama Correlator hosted on Docker Store.
-- [Correlator Builder Image](https://hub.docker.com/_/softwareag-apama-builder) - Official image for building Apama projects into new images via multi-stage builds.  
+- [Correlator Builder Image](https://hub.docker.com/_/softwareag-apama-builder) - Official image for building Apama projects into new images via multi-stage builds.
+- [AWS Marketplace](https://aws.amazon.com/marketplace/pp/B07KBHJ5NL?qid=1547210773784&sr=0-1&ref_=srh_res_product_title) - Images on Amazon Marketplace.
 
 ## IDE Extensions
 - [Notepad++](https://github.com/rpeach-sag/apama-notepad-syntax)

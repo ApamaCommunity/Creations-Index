@@ -54,6 +54,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 ## Tutorials
 
 ## Misc.
+- [Game of Life](https://github.com/nmfa/apama_life.git) - A basic Game of Life using the Dashboards for display.
 
 
 ------------------------------

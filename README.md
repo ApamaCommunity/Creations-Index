@@ -55,6 +55,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## Misc.
 - [Game of Life](https://github.com/nmfa/apama_life.git) - A basic Game of Life using the Dashboards for display.
+- [Sample Grafana Dashboards](https://github.com/ChrisF999/Apama-Dashboard) - A demonstration of both system and application dashboards via Grafana and Prometheus
 
 
 ------------------------------

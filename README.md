@@ -37,6 +37,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [RxEPL](https://github.com/SoftwareAG/apama-rxepl) - The ReactiveX framework (Observables) implemented entirely in EPL
 - [Action Binding](https://github.com/rpeach-sag/apama-action-binding) - JavaScript-esque action binding in EPL
 - [Lambdas](https://github.com/SoftwareAG/apama-lambdas) - Lambdas for EPL
+- [Industry Analytics Kit](https://github.com/SoftwareAG/apama-industry-analytics-kit) - A set of analytic microservices used to accelerate the development of Industry/IoT applications
 
 ## Utilities and Tools
 - [PySys](https://sourceforge.net/projects/pysys/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.

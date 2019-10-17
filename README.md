@@ -28,6 +28,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 ### Python
 - [Configuration Plugin](https://github.com/mjj29/apama-configuration-plugin) - Allow EPL access to correlator configuration properties
 - [MachineInformation](https://github.com/imog63/MachineInformation) - Exposes system information to EPL
+- [Apama log Analyzer](https://github.com/ApamaCommunity/apama-log-analyzer) - A simple but powerful script for analyzing Apama correlator log files.
 
 ## Hybrid Plug-Ins (C++ based mixed EPL & Connectivity Plug-Ins)
 - [CSV Plugin](https://github.com/mjj29/apama-csv-plugin) - Translation of CSV format messages, with escaping and contentType checking for both plugins and connectivity codec

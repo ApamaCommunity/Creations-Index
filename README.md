@@ -10,6 +10,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 ### C++
 - [CSV Codec](https://github.com/himanshunandeshwar/apama-streaming-analytics-connectivityPlugin-CSVCodec-cpp) - Translation of CSV format messages
 - [Batching Codec](https://github.com/mjj29/apama-batching-codec) - Convert a batch of messages into a single message containing a list of messages and vice-versa
+- [Max Size Codec](https://github.com/mjj29/apama-maxsize-codec) - A simple outbound threshold check for message size to avoid sending anything larger than the transport can handle.
 
 ### Java
 - [CSV Codec](https://github.com/SoftwareAG/apama-streaming-analytics-connectivity-CSVCodec) - Translation of CSV format messages

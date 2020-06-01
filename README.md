@@ -23,13 +23,13 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [RaspberryPi GPIO](https://github.com/CallumAttryde/apama_GPIO) - For interfacing with the RaspberryPi on board GPIO
 - [Random Plugin](https://github.com/mjj29/apama-random-plugin) - Random number generation plugin for statistical use (wraps STL random header)
 - [Filesystem](https://github.com/CallumAttryde/apama_file_plugin) - Filesystem operations (r,w,ls,mv,cp,rm,etc.)
+- [L10N](https://github.com/mjj29/apama-epl-l10n-plugin) - Translation of EPL apps using GNU gettext
 
 ### Java
 
 ### Python
 - [Configuration Plugin](https://github.com/mjj29/apama-configuration-plugin) - Allow EPL access to correlator configuration properties
 - [MachineInformation](https://github.com/imog63/MachineInformation) - Exposes system information to EPL
-- [Apama log Analyzer](https://github.com/ApamaCommunity/apama-log-analyzer) - A simple but powerful script for analyzing Apama correlator log files.
 
 ## Hybrid Plug-Ins (C++ based mixed EPL & Connectivity Plug-Ins)
 - [CSV Plugin](https://github.com/mjj29/apama-csv-plugin) - Translation of CSV format messages, with escaping and contentType checking for both plugins and connectivity codec
@@ -43,6 +43,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## Utilities and Tools
 - [PySys](https://sourceforge.net/projects/pysys/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.
+- [Apama log Analyzer](https://github.com/ApamaCommunity/apama-log-analyzer) - A simple but powerful script for analyzing Apama correlator log files.
 - [Aunit](https://github.com/antoinewaugh/aunit) - EPL annotation-based unit testing. Leverages PySys framework.
 
 ## Docker

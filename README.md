@@ -24,6 +24,8 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Random Plugin](https://github.com/mjj29/apama-random-plugin) - Random number generation plugin for statistical use (wraps STL random header)
 - [Filesystem](https://github.com/CallumAttryde/apama_file_plugin) - Filesystem operations (r,w,ls,mv,cp,rm,etc.)
 - [L10N](https://github.com/mjj29/apama-epl-l10n-plugin) - Translation of EPL apps using GNU gettext
+- [JEMalloc](https://github.com/mjj29/apama-jemalloc-plugin) - JEMalloc memory stats for a JEMalloc-enabled correlator
+- [Kasa](https://github.com/mjj29/apama-kasa-plugin) - EPL plugin for talking to TP Link Kasa smart plugs
 
 ### Java
 
@@ -33,13 +35,13 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## Hybrid Plug-Ins (C++ based mixed EPL & Connectivity Plug-Ins)
 - [CSV Plugin](https://github.com/mjj29/apama-csv-plugin) - Translation of CSV format messages, with escaping and contentType checking for both plugins and connectivity codec
-- [Base64 Codec](https://github.com/mjj29/apama-base64-plugin) - Translation of Base64-encoded data for both plugins and connectivity codec
 
 ## Frameworks and Libraries
 - [RxEPL](https://github.com/SoftwareAG/apama-rxepl) - The ReactiveX framework (Observables) implemented entirely in EPL
 - [Action Binding](https://github.com/rpeach-sag/apama-action-binding) - JavaScript-esque action binding in EPL
 - [Lambdas](https://github.com/SoftwareAG/apama-lambdas) - Lambdas for EPL
 - [Industry Analytics Kit](https://github.com/SoftwareAG/apama-industry-analytics-kit) - A set of analytic microservices used to accelerate the development of Industry/IoT applications
+- [Complex numbers](https://github.com/mjj29/apama-epl-complex) - EPL event for complex number operations in EPL.
 
 ## Utilities and Tools
 - [PySys](https://sourceforge.net/projects/pysys/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.

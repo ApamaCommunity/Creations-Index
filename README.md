@@ -42,6 +42,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Lambdas](https://github.com/SoftwareAG/apama-lambdas) - Lambdas for EPL
 - [Industry Analytics Kit](https://github.com/SoftwareAG/apama-industry-analytics-kit) - A set of analytic microservices used to accelerate the development of Industry/IoT applications
 - [Complex numbers](https://github.com/mjj29/apama-epl-complex) - EPL event for complex number operations in EPL.
+- [Container types](https://github.com/mjj29/apama-epl-containers) - EPL containers including Heap, Stack, Queue etc.
 
 ## Utilities and Tools
 - [PySys](https://sourceforge.net/projects/pysys/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.

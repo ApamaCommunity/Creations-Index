@@ -25,13 +25,13 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Filesystem](https://github.com/CallumAttryde/apama_file_plugin) - Filesystem operations (r,w,ls,mv,cp,rm,etc.)
 - [L10N](https://github.com/mjj29/apama-epl-l10n-plugin) - Translation of EPL apps using GNU gettext
 - [JEMalloc](https://github.com/mjj29/apama-jemalloc-plugin) - JEMalloc memory stats for a JEMalloc-enabled correlator
-- [Kasa](https://github.com/mjj29/apama-kasa-plugin) - EPL plugin for talking to TP Link Kasa smart plugs
 
 ### Java
 
 ### Python
 - [Configuration Plugin](https://github.com/mjj29/apama-configuration-plugin) - Allow EPL access to correlator configuration properties
 - [MachineInformation](https://github.com/imog63/MachineInformation) - Exposes system information to EPL
+- [Kasa](https://github.com/mjj29/apama-kasa-plugin) - EPL plugin for talking to TP Link Kasa smart plugs
 
 ## Hybrid Plug-Ins (C++ based mixed EPL & Connectivity Plug-Ins)
 - [CSV Plugin](https://github.com/mjj29/apama-csv-plugin) - Translation of CSV format messages, with escaping and contentType checking for both plugins and connectivity codec

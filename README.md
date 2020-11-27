@@ -1,5 +1,6 @@
 # Apama Community Creations Index
 A curated index of community creations for the [Apama Streaming Analytics](http://www.apamacommunity.com/) platform.
+
 ## Contributing to the Index
 If you would like to link to a resource (hosted on GitHub or externally), please create a pull request containing your changes to the README.md file. 
 
@@ -46,8 +47,9 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Functional operators](https://github.com/mjj29/apama-epl-functional) - EPL libraries for map/reduce and other functional operators, generators and partial function evalution
 
 ## Utilities and Tools
-- [PySys](https://sourceforge.net/projects/pysys/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.
-- [Apama log Analyzer](https://github.com/ApamaCommunity/apama-log-analyzer) - A simple but powerful script for analyzing Apama correlator log files.
+- [GitHub Actions workflow for Apama](https://github.com/ApamaCommunity/.github) - A starter workflow (and associated setup-apama action) for building and testing Apama applications and plugins using GitHub Actions. 
+- [PySys](https://pysys-test.github.io/pysys-test/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.
+- [Apama log Analyzer](https://github.com/ApamaCommunity/apama-log-analyzer) - A script for analyzing Apama correlator log files, and graphing key metrics.
 - [Aunit](https://github.com/antoinewaugh/aunit) - EPL annotation-based unit testing. Leverages PySys framework.
 
 ## Docker
@@ -56,8 +58,8 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [AWS Marketplace](https://aws.amazon.com/marketplace/pp/B07KBHJ5NL?qid=1547210773784&sr=0-1&ref_=srh_res_product_title) - Images on Amazon Marketplace.
 
 ## IDE Extensions
-- [Notepad++](https://github.com/rpeach-sag/apama-notepad-syntax)
-- [vscode](https://github.com/CaribouJohn/vscode-apama-extensions) - Install from vscode (search extensions for 'EPL') 
+- [Notepad++](https://github.com/rpeach-sag/apama-notepad-syntax).
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=CaribouJohn.apama-extensions) - Visual Studio Code extension to editing EPL files.
 
 ## Tutorials
 
@@ -67,4 +69,4 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 
 ------------------------------
-These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
+These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the relevant license agreement(s). While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.

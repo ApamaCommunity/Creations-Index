@@ -25,6 +25,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Filesystem](https://github.com/CallumAttryde/apama_file_plugin) - Filesystem operations (r,w,ls,mv,cp,rm,etc.)
 - [L10N](https://github.com/mjj29/apama-epl-l10n-plugin) - Translation of EPL apps using GNU gettext
 - [JEMalloc](https://github.com/mjj29/apama-jemalloc-plugin) - JEMalloc memory stats for a JEMalloc-enabled correlator
+- [Authentication](https://github.com/mjj29/apama-authentication-plugin) - Authentication and session cache db for EPL.
 
 ### Java
 

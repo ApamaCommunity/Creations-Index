@@ -47,6 +47,9 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Container types](https://github.com/mjj29/apama-epl-containers) - EPL containers including Heap, Stack, Queue etc.
 - [Functional operators](https://github.com/mjj29/apama-epl-functional) - EPL libraries for map/reduce and other functional operators, generators and partial function evalution
 
+## Streaming Analytics in Cumulocity IoT
+- [GitHub to EPL Apps Sync](https://github.com/mjj29/streaminganalytics-github-sync) - Automatic bidirectional synchronization for EPL Apps into a GitHub repository for Cumulocity IoT Streaming Analytics applications. Enables enterprise development workflows.
+
 ## Utilities and Tools
 - [GitHub Actions workflow for Apama](https://github.com/ApamaCommunity/.github) - A starter workflow (and associated setup-apama action) for building and testing Apama applications and plugins using GitHub Actions. 
 - [PySys](https://pysys-test.github.io/pysys-test/) - Cross platform system/unit testing, recommended for use when testing Apama applications. Many Apama centric extensions available. Included in install.

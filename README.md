@@ -63,7 +63,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 
 ## IDE Extensions
 - [Notepad++](https://github.com/rpeach-sag/apama-notepad-syntax).
-- [VSCode](https://marketplace.visualstudio.com/items?itemName=CaribouJohn.apama-extensions) - Visual Studio Code extension to editing EPL files.
+- [VSCode](https://marketplace.visualstudio.com/items?itemName=ApamaCommunity.apama-extensions) - Visual Studio Code extension to editing EPL files.
 
 ## Tutorials
 

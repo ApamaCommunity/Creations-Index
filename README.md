@@ -45,7 +45,7 @@ If you would like to link to a resource (hosted on GitHub or externally), please
 - [Industry Analytics Kit](https://github.com/SoftwareAG/apama-industry-analytics-kit) - A set of analytic microservices used to accelerate the development of Industry/IoT applications
 - [Complex numbers](https://github.com/mjj29/apama-epl-complex) - EPL event for complex number operations in EPL.
 - [Container types](https://github.com/mjj29/apama-epl-containers) - EPL containers including Heap, Stack, Queue etc.
-- [Functional operators](https://github.com/mjj29/apama-epl-functional) - EPL libraries for map/reduce and other functional operators, generators and partial function evalution
+- [Functional operators](https://github.com/mjj29/apama-epl-functional) - EPL libraries for map/reduce and other functional operators, generators and partial function evalution - **Note: this has been replaced by built-in com.apama.functional.Functional type from Apama 10.15.3**
 
 ## Streaming Analytics in Cumulocity IoT
 - [GitHub to EPL Apps Sync](https://github.com/mjj29/streaminganalytics-github-sync) - Automatic bidirectional synchronization for EPL Apps into a GitHub repository for Cumulocity IoT Streaming Analytics applications. Enables enterprise development workflows.
